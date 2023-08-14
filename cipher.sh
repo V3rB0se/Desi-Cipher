@@ -11,9 +11,6 @@ BOLD='\033[1m'
 source cities.sh
 source names.sh
 
-
-
-newbanner
 banner(){
 clear
 echo -e "${RED}"
