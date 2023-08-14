@@ -33,7 +33,7 @@ chmod +x cipher.sh
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the MIT License. See [License](https://github.com/V3rB0se/Desi-Cipher/blob/main/LICENSE") for details.
 
 
 
