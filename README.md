@@ -4,7 +4,7 @@
 
 It's just that I was getting bored and wanted to do something useful, so I scraped the data (names.sh, cities.sh) from Hamariweb. The script I created utilizes this scraped data to generate wordlists for Pakistani names and cities. This little shell script can be handy for various purposes like password cracking, penetration testing, and data analysis.
 
-
+## Usage 
 1. Unix-like environment (Linux/macOS) with a bash shell interpreter installed.
 2. Make the script executable:
 
